@@ -56,16 +56,13 @@ The accuracy of the model is:
    macro avg       0.96      0.95      0.95       114
 weighted avg       0.96      0.96      0.96       114
 
+## Confusion Matrix
+[[39  4]
+ [ 1 70]]
+
 ## Contact
 If you have any questions, suggestions, or contributions, feel free to reach out:
 
 Email: fvtma22@gmail.com
 
 LinkedIn:https://www.linkedin.com/in/fatma-hossam-987907306/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BdmW7JtSaRtaoBMa%2BIVA%2FtA%3D%3D
-
-
-
-
-## Confusion Matrix
-[[39  4]
- [ 1 70]]
